@@ -1,7 +1,7 @@
 # Eurodance-Mag
 Eurodance Magazine App
 
-<a href="http://bit.ly/eurodanceweb
+▪︎Official Website: <a href="http://bit.ly/eurodancemagazine
 ">Here</a><br>
-<a href="http://bit.ly/eurodanceapp
+▪︎Download App<a href="http://bit.ly/eurodanceapp
 ">Download</a><br>
