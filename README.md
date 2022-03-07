@@ -1,5 +1,3 @@
-#Eurodance Magazine App
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/ngrock90/Eurodance-Mag/main/5190386000024213752.20210901102147.85971127920021033424010683476948.png" />
   
