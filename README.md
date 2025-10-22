@@ -3,7 +3,7 @@
 
   
   ![GitHub release (latest by date including pre-releases)]
-(https://img.shields.io/github/v/release/ngrock90/Eurodance-Mag?include_prereleases&style=plastic) .
+https://img.shields.io/github/v/release/ngrock90/Eurodance-Mag?include_prereleases&style=plastic
 
   
 # Eurodance Magazine
