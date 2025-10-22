@@ -1,7 +1,8 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/ngrock90/Eurodance-Mag/main/5190386000024213752.20210901102147.85971127920021033424010683476948.png" />
   <br>
-  ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ngrock90/Eurodance-Mag?include_prereleases&style=plastic).
+  ![GitHub release (latest by date including pre-releases)]
+  (https://img.shields.io/github/v/release/ngrock90/Eurodance-Mag?include_prereleases&style=plastic).
 
   
 # Eurodance Magazine
